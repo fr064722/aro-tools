@@ -1,0 +1,5 @@
+{
+    "tools|block": “手臂伺服馬達”,
+    "tools.servo|block": “手臂轉動角度 馬達 %id|目標角度 %p|當前角度 %a|運作時間 %c”,
+    "tools.ledOfRectangle|block": "LED顯示長方形面積 長 %length|寬 %width"
+}
